@@ -61,21 +61,8 @@
 #conviertete-en-colaborador label{
     color: #000000;
 }
-.btn-warning{
-    background-color: #c19892;
-}
-.btn-outline-danger{
+.btn-outline-secondary{
     background-color: #c19892;
     color: #000;
-    border: #000;
-}
-.btn-success{
-    background-color: #c19892;
-    color: #000;
-    border: #000;
-}
-.alert-info{
-    background-color: #c4bbdc;
-    color: #000;
-    border: #000;
+    border-color: #000;
 }
